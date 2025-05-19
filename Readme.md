@@ -1,0 +1,4 @@
+As part of my coursework for CSE422: Artificial Intelligence at BRAC University, I recently completed a technical study where I applied and evaluated multiple machine learning models—including Random Forest, Decision Tree, and Neural Networks—to predict used car prices based on vehicle attributes.
+The project involved working with a real-world dataset from Kaggle, focusing on tasks such as data cleaning, feature engineering, and model evaluation using regression metrics (MAE, MSE, RMSE, and R² Score). Among the tested models, Random Forest achieved the best performance with a 96.47% R² score.
+This was a valuable experience in understanding trade-offs in model complexity, accuracy, and interpretability.
+Feel free to check out the full report (formatted in IEEE style).
